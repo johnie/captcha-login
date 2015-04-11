@@ -2,7 +2,7 @@
 /*
 * Plugin Name: Captcha Login
 * Plugin URI: https://github.com/johnie/captcha-login
-* Description:
+* Description: WordPress plugin to add No Captcha reCaptcha to login page
 * Version: 1.0.0
 * Author: Johnie Hjelm
 * Author URI: http://johnie.se
